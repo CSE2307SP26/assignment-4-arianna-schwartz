@@ -1,1 +1,1 @@
-There is unfortunately no code here for me to grade.
+For every test from checking incorrect spelling onwards, the SpellChecker object is created, but no words are added. How can it determine if a word is spelled correctly or not if it doesn't know about any words? How can it recommend a word if it doesn't know any words to recommend?
